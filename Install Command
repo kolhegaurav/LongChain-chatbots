@@ -1,0 +1,7 @@
+!pip install streamlit
+!pip install langchain_openai
+!pip install langchain_community
+!pip install streamlit pyngrok
+!pip install langchain-groq
+!pip install langchain-chroma
+!pip install langchain-huggingface
